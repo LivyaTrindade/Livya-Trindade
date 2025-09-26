@@ -1,4 +1,4 @@
-# Livya-Trindade
+# Livya Trindade
 # 👋 Olá, eu sou Livya Trindade
 
 ## 🎯 Analista de Requisitos em Formação
